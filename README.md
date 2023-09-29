@@ -1,7 +1,7 @@
 # 💫 Hi I'm MD ARIF:
 I'm currently pursuing MCA at NIT JAMSHEDPUR<br>BSC (Hons) CS Graduate<br>Currently working on CP, DSA, Web Development.<br><br>
 
-<img  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="250" height="250" style="float:right">
 
 
 ## 🌐 Socials:
