@@ -31,7 +31,6 @@
 ## 📊 My GitHub Data
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Arif20484423&theme=radical&hide_border=true)
-![GitHub Private Repos](https://img.shields.io/badge/Private%20Repos-🔒-informational)
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arif20484423&theme=radical)
 
 
