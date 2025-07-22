@@ -6,11 +6,13 @@
 
 ---
 
-## 🔥 Recent Full Stack Projects
+## 🔥 Recent Projects
 - **Placement Management System:** Automating placement activities for Training and Placement Coordinators — built with a 5-member team from scratch to near-completion with scalable architecture.
 - **eChat:** A real-time chat and file-sharing platform handling 150+ concurrent users.
+- **Fool Ideas:** A creative startup landing platform to present innovative business concepts with engaging UI and smooth transitions.
+- **Ehike:** A professional startup landing and details page designed for showcasing the company's brand and services.
 - **Portfolio Website:** My personal space showcasing skills, projects, and achievements — built with Next.js, custom animations, and optimized for performance.
-
+  
 ---
 
 ## 🛠️ Tech Stack
