@@ -49,6 +49,10 @@
 
 
 ---
+## 🤝 Open Source Contributions
+I'm always open to contributing to impactful open source projects and collaborating with developers around the globe.
+
+---
 
 ## 📈 GitHub Stats
 ![Md Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arif20484423&show_icons=true&theme=radical)
