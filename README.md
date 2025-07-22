@@ -36,6 +36,11 @@
 ![GitHub Public Repos](https://img.shields.io/github/repos/Arif20484423?label=Public%20Repos)
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arif20484423&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Arif20484423&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arif20484423&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arif20484423&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Arif20484423&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ---
 
