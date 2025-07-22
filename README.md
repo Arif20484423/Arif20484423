@@ -1,3 +1,61 @@
+# 👋 Hi, I'm Md Arif! 
+🚀 **Aspiring Software Engineer | Full Stack Developer | MCA @ NIT Jamshedpur**
+
+[![GitHub Follow](https://img.shields.io/github/followers/Arif20484423?label=Follow&style=social)](https://github.com/Arif20484423)
+[![LinkedIn Follow](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/md-arif-181a0a205/)
+
+---
+
+## 🔥 Recent Full Stack Projects
+- **Placement Management System:** Automating placement activities for Training and Placement Coordinators — built with a 5-member team from scratch to near-completion with scalable architecture.
+- **eChat:** A real-time chat and file-sharing platform handling 150+ concurrent users.
+- **Portfolio Website:** My personal space showcasing skills, projects, and achievements — built with Next.js, custom animations, and optimized for performance.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Java, C, C++, Python, JavaScript, TypeScript
+- **Frontend:** Next.js, React.js, HTML, CSS, TailwindCSS, Framer Motion
+- **Backend:** Node.js, Express.js, MongoDB, SQL, PHP, Socket.io
+- **Tools:** Git, GitHub, Figma, Postman, Vercel
+- **Others:** JWT, Nodemailer, Supabase, OAuth
+
+---
+
+## 📈 GitHub Stats
+![Md Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arif20484423&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arif20484423&layout=compact&theme=radical)
+
+---
+
+## 📊 My GitHub Data
+- 🐱 **GitHub Storage:** 284.4 kB Used
+- 🏆 **480 Contributions** in the Year 2025
+- 📜 **24 Public Repositories**
+- 🔑 **31 Private Repositories**
+- 🚫 **Not Opted to Hire**
+
+---
+
+## ⏳ Code Time | Profile Views | Lines of Code
+> Always writing, always refining.  
+> *Constantly pushing commits, improving products, and scaling skills!*
+
+---
+
+## 🌐 Let's Connect
+- 📧 **Email:** [arif7862016aa@gmail.com](mailto:arif7862016aa@gmail.com)
+- 🔗 **LinkedIn:** [Md Arif](https://linkedin.com/in/md-arif-181a0a205/)
+- 💻 **GitHub:** [Arif20484423](https://github.com/Arif20484423)
+- 🌐 **Portfolio:** [My Portfolio](https://portfolio-arif20484423s-projects.vercel.app/)
+
+---
+
+> *"I believe in building solutions, not just writing code. From brainstorming to production — I love the entire journey!"*
+
+
+
+
 # 💫 Hi I'm MD ARIF:
 <div><div style="display:inline">I'm currently pursuing MCA at NIT JAMSHEDPUR<br>BSC (Hons) CS Graduate<br>Currently working on CP, DSA, Web Development.<br><br></div>
 
